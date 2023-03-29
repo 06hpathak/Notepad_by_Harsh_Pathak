@@ -1,0 +1,12 @@
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\bin\Debug\Notepad_Harsh Pathak.exe.config
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\bin\Debug\Notepad_Harsh Pathak.exe
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\bin\Debug\Notepad_Harsh Pathak.pdb
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh Pathak.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh_Pathak.Properties.Resources.resources
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh Pathak.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh Pathak.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh Pathak.exe
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh Pathak.pdb
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh_Pathak.help.resources
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh_Pathak.form_welcome_notepad.resources
+C:\Users\abc\source\repos\Notepad_Harsh Pathak\Notepad_Harsh Pathak\obj\Debug\Notepad_Harsh_Pathak.form_notepad.resources
